@@ -1,4 +1,4 @@
-module github.com/harshals13/go-web.git
+module github.com/harshals13/go-web-1.git
 
 go 1.19
 
